@@ -2142,54 +2142,35 @@ var socials = [
         label: "Telegram",
         icon: "TelegramIcon",
         items: [
-            {
-                label: "English",
-                href: "http://telegram.peps.today/",
-            },
-            // {
-            //   label: "Bahasa Indonesia",
-            //   href: "https://t.me/PancakeSwapIndonesia",
-            // },
-            // {
-            //   label: "中文",
-            //   href: "https://t.me/PancakeSwap_CN",
-            // },
-            // {
-            //   label: "Tiếng Việt",
-            //   href: "https://t.me/PancakeSwapVN",
-            // },
-            // {
-            //   label: "Italiano",
-            //   href: "https://t.me/pancakeswap_ita",
-            // },
-            // {
-            //   label: "русский",
-            //   href: "https://t.me/pancakeswap_ru",
-            // },
-            // {
-            //   label: "Türkiye",
-            //   href: "https://t.me/pancakeswapturkiye",
-            // },
-            // {
-            //   label: "Português",
-            //   href: "https://t.me/PancakeSwapPortuguese",
-            // },
-            // {
-            //   label: "Español",
-            //   href: "https://t.me/PancakeswapEs",
-            // },
-            // {
-            //   label: "日本語",
-            //   href: "https://t.me/pancakeswapjp",
-            // },
-            // {
-            //   label: "Français",
-            //   href: "https://t.me/pancakeswapfr",
-            // },
-            {
-                label: "Announcements",
-                href: "http://telegram.peps.today/",
-            },
+      {
+        label: "English",
+        href: "http://telegram.peps.today",
+      },
+      {
+        label: "Türkiye",
+        href: "https://t.me/joinchat/HIHuKD1r8mRmM2Ey",
+      },
+      {
+        label: "Español",
+        href: "https://t.me/joinchat/_0PYTphkKYhmNzBh",
+      },
+      {
+        label: "Português",
+        href: "https://t.me/Peps_BR",
+      },
+      {
+        label: "Italiano",
+        href: "https://t.me/joinchat/WS89sCVlnjkEr8AI",
+      },
+      {
+        label: "India",
+        href: "https://t.me/joinchat/TV1zcUIS1ZPpjluG",
+      },
+      {
+        label: "Africa",
+        href: "https://t.me/joinchat/_acKO_mr0a43Mzcx",
+      },
+      
         ],
     },
     {
