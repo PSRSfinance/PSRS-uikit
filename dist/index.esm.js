@@ -2134,6 +2134,10 @@ var socials = [
         href: "http://telegram.peps.today",
       },
       {
+        label: "Português",
+        href: "https://t.me/Peps_BR",
+      },
+      {
         label: "Announcements",
         href: "https://t.me/ProjectPEPS",
       },
