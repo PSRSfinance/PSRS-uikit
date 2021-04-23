@@ -2147,28 +2147,8 @@ var socials = [
         href: "http://telegram.peps.today",
       },
       {
-        label: "Türkiye",
-        href: "https://t.me/joinchat/HIHuKD1r8mRmM2Ey",
-      },
-      {
-        label: "Español",
-        href: "https://t.me/joinchat/_0PYTphkKYhmNzBh",
-      },
-      {
-        label: "Português",
-        href: "https://t.me/Peps_BR",
-      },
-      {
-        label: "Italiano",
-        href: "https://t.me/joinchat/WS89sCVlnjkEr8AI",
-      },
-      {
-        label: "India",
-        href: "https://t.me/joinchat/TV1zcUIS1ZPpjluG",
-      },
-      {
-        label: "Africa",
-        href: "https://t.me/joinchat/_acKO_mr0a43Mzcx",
+        label: "Announcements",
+        href: "https://t.me/ProjectPEPS",
       },
       
         ],
