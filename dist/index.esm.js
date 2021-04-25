@@ -2134,10 +2134,6 @@ var socials = [
         href: "https://t.me/pepper_finance",
       },
       {
-        label: "Português",
-        href: "https://t.me/Peps_BR",
-      },
-      {
         label: "Announcements",
         href: "https://t.me/ProjectPEPS",
       },
