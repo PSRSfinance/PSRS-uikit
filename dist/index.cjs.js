@@ -2144,11 +2144,7 @@ var socials = [
         items: [
       {
         label: "English",
-        href: "http://telegram.peps.today",
-      },
-      {
-        label: "Português",
-        href: "https://t.me/Peps_BR",
+        href: "https://t.me/pepper_finance",
       },
       {
         label: "Announcements",
