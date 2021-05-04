@@ -2131,7 +2131,7 @@ var socials = [
         items: [
       {
         label: "English",
-        href: "https://t.me/pepper_finance",
+        href: "https://t.me/pepperfinance_v2",
       },
       {
         label: "Announcements",
