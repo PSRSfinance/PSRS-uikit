@@ -2031,7 +2031,7 @@ var links = [
     {
         label: "Home",
         icon: "HomeIcon",
-        href: "https://swap.peps.today",
+        href: "https://app.pepr.finance",
     },
     {
         label: "Trade",
@@ -2039,18 +2039,18 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://swap.peps.today/x/#/swap",
+                href: "https://exchange.pepr.finance/#/swap",
             },
             {
                 label: "Liquidity",
-                href: "https://swap.peps.today/x/#/pool",
+                href: "https://exchange.pepr.finance/#/pool",
             },
         ],
     },
     {
         label: "Farms",
         icon: "FarmIcon",
-        href: "https://swap.peps.today/farms",
+        href: "https://app.pepr.finance/farms",
     },
     {
         label: "Pools",
@@ -2156,7 +2156,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/projectpeps",
+        href: "https://twitter.com/PepperFinance?s=09",
     },
 ];
 var MENU_HEIGHT = 64;
