@@ -2131,7 +2131,15 @@ var socials = [
         items: [
       {
         label: "English",
-        href: "https://t.me/pepperfinance_v2",
+        href: "https://t.me/peprfinance",
+      },
+      {
+        label: "Portuguese",
+        href: "https://t.me/Peps_BR",
+      },
+      {
+        label: "PEPS Community",
+        href: "https://t.me/pepsofficial",
       },
       {
         label: "Announcements",
@@ -2143,7 +2151,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/PepperFinance?s=09",
+        href: "https://twitter.com/projectpeps",
     },
 ];
 var MENU_HEIGHT = 64;
